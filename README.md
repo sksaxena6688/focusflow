@@ -14,6 +14,9 @@ A minimal, distraction-free productivity web app for students. Track habits, tas
 | **Notes** | Fast note-taking with tags and full-text search |
 | **Resources** | Track PDFs, courses, books with progress bars and hours |
 
+## Use Case
+FocusFlow is designed for personal productivity management. It allows users to monitor habits, tasks, and study effort without requiring any backend or account system. The goal is simplicity, speed, and distraction-free tracking.
+
 ## Tech Stack
 
 - **React 18** + **Vite** — fast dev server
